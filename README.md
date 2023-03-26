@@ -9,7 +9,7 @@ The tables below demonstrate a clear picture of how many employees will be affec
 
 ### unique tables
 
-![image](https://user-images.githubusercontent.com/115044466/226153251-6288a165-4401-47ba-a517-9fdfaa3a2a27.png)
+![image](https://github.com/Newlie2/Pewlett-Hackard-Analysis/blob/main/Image-2.png)
 
 ### Retiring 
 
