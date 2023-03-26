@@ -15,9 +15,9 @@ The tables below demonstrate a clear picture of how many employees will be affec
 
 ![image](https://user-images.githubusercontent.com/115044466/226153429-49a15353-cd12-4208-b406-b1bb0dac57f5.png)
 
+# Deliverable 2 
 
-
-
+![image](https://github.com/Newlie2/Pewlett-Hackard-Analysis/blob/main/Image-4.png)
 
 
 
