@@ -1,4 +1,7 @@
+# Deliverable 1: The Number of Retiring Employees by Title 
 -- DROP TABLE retirement_titles;
+
+## Retirement Titles Table
 
 SELECT em.emp_no, first_name, last_name, title, from_date, to_date
 INTO retirement_titles
@@ -10,6 +13,9 @@ ORDER BY emp_no;
 
 SELECT * FROM retirement_titles;
 
+## Unique Titles Table
+
+
 DROP TABLE unique_titles;
 
 SELECT DISTINCT ON (emp_no) emp_no, first_name, last_name, title, from_date, to_date
@@ -20,6 +26,7 @@ ORDER BY emp_no ASC, to_date DESC;
 
 SELECT * FROM unique_titles;
 
+## Retiring Titles Table 
 
 DROP TABLE retiring_titles;
 
@@ -30,6 +37,8 @@ GROUP BY title
 ORDER BY ticount  DESC;
 
 SELECT * FROM retiring_titles;
+
+# Deliverable 2: The Employees Eligible for the Mentorship Program 
 
 DROP TABLE mentorship_eligibility;
 
